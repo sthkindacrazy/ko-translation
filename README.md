@@ -141,6 +141,6 @@
 | 착수 | [Advice for Better Blog Posts](https://www.fast.ai/2019/05/13/blogging-advice/) | 미정   |
 | **완료** | [What You Need to Know Before Considering a PhD](https://www.fast.ai/2018/08/27/grad-school/) | [여러분이 박사를 고려하기 전에 알아야 할 것들](https://github.com/fast-ai-kr/ko-translation/blob/master/fastai-etc/What%20You%20Need%20to%20Know%20Before%20Considering%20a%20PhD.md) |
 | **완료** | [AI Ethics Resources](https://www.fast.ai/2018/09/24/ai-ethics-resources/) | [AI 윤리 리소스 모음집](https://github.com/fast-ai-kr/ko-translation/blob/master/fastai-etc/AI%20Ethics%20Resources.md) |
-| 미착수 | [One year of deep learning](https://www.fast.ai/2019/01/02/one-year-of-deep-learning/) | 미정 | 
+| 착수 | [One year of deep learning](https://www.fast.ai/2019/01/02/one-year-of-deep-learning/) | 미정 | 
 | **완료** | [Five Trends to Avoid When Founding a Startup](https://www.fast.ai/2018/01/08/startups/) | [스타트업을 시작할때 피해야 할 5가지 흐름](https://jongjinchoi.com/2018/01/five-trends-to-avoid-when-founding-a-startup/) |
 | 미착수 | [A Discussion about Accessibility in AI at Stanford](https://www.fast.ai/2018/04/10/stanford-salon/) | 미착수 |
